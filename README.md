@@ -1,0 +1,1 @@
+A lightweight and efficient URL Shortener built with Node.js and Express. It converts long URLs into short, shareable links using Nanoid for unique IDs and supports instant redirection. This project demonstrates REST API development, routing, and backend best practices for beginners and enthusiasts.
